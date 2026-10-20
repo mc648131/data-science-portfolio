@@ -4,7 +4,7 @@ This repository hosts my personal data science portfolio website, published via 
 
 ## Live Website
 
-🔗 **[https://[your-github-username].github.io/data-science-portfolio/](https://[your-github-username].github.io/data-science-portfolio/)**
+🔗 **[[https://[your-github-username].github.io/data-science-portfolio/](https://github.com/mc648131/data-science-portfolio)](https://[your-github-username].github.io/data-science-portfolio/)**
 
 ## About
 
