@@ -47,7 +47,7 @@ I am a Master's student in Data Science at the University of Macau, focusing on 
 - Annualized volatility is approximately 19%, with clear spikes during the 2022 downturn.
 - The return distribution exhibits **fat tails** — extreme daily moves occur more frequently than a normal distribution would predict.
 
-**Repository:** ([https://github.com/mc648131/data-science-project](https://raw.githubusercontent.com/mc648131/data-science-project/main/figures/daily_returns_histogram.png))
+**Repository:** ([https://github.com/mc648131/data-science-project](https://raw.githubusercontent.com/mc648131/data-science-project/main/daily_returns_histogram.png))
 
 ---
 
